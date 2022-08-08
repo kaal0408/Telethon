@@ -1,8 +1,8 @@
 {
-    "name": "Telethon Music Bot",
+    "name": "Telethon ",
     "description": "Music allow you to stream music trought the telegram voice chat feature Based on Telethon.",
-    "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/ITZ-ZAID/Telethon-Music",
+    "keywords": ["startup", "Telethon-Vc-Player", "music", "voice chat", "telegram", "Private Music"],
+    "repository": "https://github.com/kaal0408/Telethon",
   "stack": "container",
     "env": {
         "STRING_SESSION": {
@@ -19,7 +19,7 @@
             "required": false,
             "value": "4e984ea35f854762dcde906dce426c2d"
         },
-        "BOT_TOKEN": {
+        "TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
             "value": ""
