@@ -5,7 +5,7 @@
     "repository": "https://github.com/kaal0408/Telethon",
   "stack": "container",
     "env": {
-        "STRING_SESSION": {
+        "SESSION": {
             "description": "fill with the pyrogram session string from account",
             "required": true
         },
